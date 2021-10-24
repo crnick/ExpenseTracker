@@ -1,7 +1,16 @@
-# ExpenseTracker
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
-Description:
+### Description:
 
 This is a simple web application for Expense Tracker. Here you can add the item or small description of the things you bought.
 You can enter the price of the item, date and then click on the add option to see the details that you have submitted.
@@ -11,12 +20,12 @@ When the item is displayed and want to remove it just hove the item and on the l
 there is a samll red icon which will remove the item and update the price as well.
 
 
-Technologies:
+### Technologies:
 
 This application is built using React and functions from react hooks.
 
 
-Screenshots:
+### Screenshots:
 
 How the application looks:
 ![expenseTracker](https://user-images.githubusercontent.com/19607928/138591512-c23b12f4-33c3-47bc-8fb8-571d18777a7b.PNG)
